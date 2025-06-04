@@ -1,11 +1,11 @@
 criaCartao(
-    'Programação',
+    'Futebol',
     'Quem é o maior jogador de Portugal?'
     'Cristiano Ronaldo'
 )
 
 criaCartao(
-    'Geografia',
+    'Futebol',
     'Quem é o maior artilheiro do Brasil?',
     'Neymar Jr'
 )
